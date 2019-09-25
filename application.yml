@@ -15,4 +15,4 @@ server:
 spring:
   application:
     name: SERVER-TEST
-  profiles: dev #测试环境  
+  profiles: test #测试环境  
